@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Morio_wit_da_goons.unity
+  isLoaded: 1
+  isActive: 1
